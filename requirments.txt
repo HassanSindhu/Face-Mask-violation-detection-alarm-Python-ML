@@ -1,0 +1,11 @@
+tensorflow
+imutils
+numpy
+argparse
+imutils
+time
+cv2
+pygame
+os
+matplotlib
+sklearn
